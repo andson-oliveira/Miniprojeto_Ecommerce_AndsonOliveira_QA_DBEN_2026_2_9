@@ -1,0 +1,14 @@
+{
+  "name": "miniprojeto-ecommerce",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^24.19.0",
+    "typescript": "^5.x.x"
+  }
+}
